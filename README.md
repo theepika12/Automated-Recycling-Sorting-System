@@ -31,7 +31,9 @@ The system had to operate within several constraints:
 
 The system was developed and tested using **Quanser Interactive Labs**, which provided a virtual environment for simulating the recycling system.
 
+![Environment](images/Environment.png)
 
+*Virtual Environment Used*
 
 ## Final Outcome
 
@@ -42,6 +44,10 @@ The completed system successfully handled the main recycling process:
 - Returned to the initial position
 
 The system was able to efficiently coordinate the different stages of the recycling process using sensor-based inputs and programmed functions.
+
+![Deposit](images/Depositing.png)
+
+*Hopper Depositing Container into its Respective Bin*
 
 ## My Role - Administrator
 
@@ -57,6 +63,10 @@ As the Administrator for the computing sub-team, I helped coordinate the team's 
 - Developed the transfer function
 - Assisted with developing the code for the physical environment
 - Contributed to the overall programming and testing process
+
+![Transfer Function](images/Transfer.png)
+
+*Code for the Transfer Function*
 
 ## Tools & Technologies
 - **Python** - Programming and system control
